@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>ru.davidlevy.lesson5.classification</OriginalElement>
+  <nodes>
+    <node x="246.0" y="400.0">ru.davidlevy.lesson5.classification.Dog</node>
+    <node x="438.0" y="400.0">ru.davidlevy.lesson5.classification.Cat</node>
+    <node x="388.12719298245617" y="320.0">ru.davidlevy.lesson5.classification.Felis</node>
+    <node x="339.0" y="400.0">ru.davidlevy.lesson5.classification.Tiger</node>
+    <node x="252.5" y="0.0">ru.davidlevy.lesson5.classification.Animalia</node>
+    <node x="113.5" y="240.0">ru.davidlevy.lesson5.classification.Perissodactyla</node>
+    <node x="250.5" y="80.0">ru.davidlevy.lesson5.classification.Chordata</node>
+    <node x="17.5" y="240.0">ru.davidlevy.lesson5.classification.Aves</node>
+    <node x="243.5" y="320.0">ru.davidlevy.lesson5.classification.Canis</node>
+    <node x="515.5" y="240.0">ru.davidlevy.lesson5.classification.Squamata</node>
+    <node x="514.0" y="320.0">ru.davidlevy.lesson5.classification.Serpentes</node>
+    <node x="526.0" y="400.0">ru.davidlevy.lesson5.classification.Snake</node>
+    <node x="316.10526315789474" y="240.0">ru.davidlevy.lesson5.classification.Carnivora</node>
+    <node x="0.0" y="160.0">ru.davidlevy.lesson5.classification.Ornithurae</node>
+    <node x="136.0" y="320.0">ru.davidlevy.lesson5.classification.Equus</node>
+    <node x="521.0" y="160.0">ru.davidlevy.lesson5.classification.Reptilia</node>
+    <node x="136.5" y="400.0">ru.davidlevy.lesson5.classification.Horse</node>
+    <node x="13.0" y="320.0">ru.davidlevy.lesson5.classification.Parrot</node>
+    <node x="247.60526315789474" y="160.0">ru.davidlevy.lesson5.classification.Mammalia</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ru.davidlevy.lesson5.classification.Serpentes" target="ru.davidlevy.lesson5.classification.Squamata">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="ru.davidlevy.lesson5.classification.Canis" target="ru.davidlevy.lesson5.classification.Carnivora">
+      <point x="0.0" y="-15.0" />
+      <point x="282.5" y="295.0" />
+      <point x="341.60526315789474" y="295.0" />
+      <point x="-25.5" y="15.0" />
+    </edge>
+    <edge source="ru.davidlevy.lesson5.classification.Carnivora" target="ru.davidlevy.lesson5.classification.Mammalia">
+      <point x="0.0" y="-15.0" />
+      <point x="367.10526315789474" y="215.0" />
+      <point x="325.60526315789474" y="215.0" />
+      <point x="26.0" y="15.0" />
+    </edge>
+    <edge source="ru.davidlevy.lesson5.classification.Ornithurae" target="ru.davidlevy.lesson5.classification.Chordata">
+      <point x="0.0" y="-15.0" />
+      <point x="55.5" y="135.0" />
+      <point x="267.1666666666667" y="135.0" />
+      <point x="-33.333333333333314" y="15.0" />
+    </edge>
+    <edge source="ru.davidlevy.lesson5.classification.Horse" target="ru.davidlevy.lesson5.classification.Equus">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="ru.davidlevy.lesson5.classification.Cat" target="ru.davidlevy.lesson5.classification.Felis">
+      <point x="0.0" y="-15.0" />
+      <point x="472.0" y="375.0" />
+      <point x="443.62719298245617" y="375.0" />
+      <point x="18.5" y="15.0" />
+    </edge>
+    <edge source="ru.davidlevy.lesson5.classification.Equus" target="ru.davidlevy.lesson5.classification.Perissodactyla">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="ru.davidlevy.lesson5.classification.Perissodactyla" target="ru.davidlevy.lesson5.classification.Mammalia">
+      <point x="0.0" y="-15.0" />
+      <point x="177.5" y="215.0" />
+      <point x="273.60526315789474" y="215.0" />
+      <point x="-26.0" y="15.0" />
+    </edge>
+    <edge source="ru.davidlevy.lesson5.classification.Tiger" target="ru.davidlevy.lesson5.classification.Felis">
+      <point x="0.0" y="-15.0" />
+      <point x="378.5" y="375.0" />
+      <point x="406.62719298245617" y="375.0" />
+      <point x="-18.5" y="15.0" />
+    </edge>
+    <edge source="ru.davidlevy.lesson5.classification.Reptilia" target="ru.davidlevy.lesson5.classification.Chordata">
+      <point x="0.0" y="-15.0" />
+      <point x="567.0" y="135.0" />
+      <point x="333.83333333333337" y="135.0" />
+      <point x="33.33333333333337" y="15.0" />
+    </edge>
+    <edge source="ru.davidlevy.lesson5.classification.Chordata" target="ru.davidlevy.lesson5.classification.Animalia">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="ru.davidlevy.lesson5.classification.Felis" target="ru.davidlevy.lesson5.classification.Carnivora">
+      <point x="0.0" y="-15.0" />
+      <point x="425.12719298245617" y="295.0" />
+      <point x="392.60526315789474" y="295.0" />
+      <point x="25.5" y="15.0" />
+    </edge>
+    <edge source="ru.davidlevy.lesson5.classification.Mammalia" target="ru.davidlevy.lesson5.classification.Chordata">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="ru.davidlevy.lesson5.classification.Squamata" target="ru.davidlevy.lesson5.classification.Reptilia">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="ru.davidlevy.lesson5.classification.Parrot" target="ru.davidlevy.lesson5.classification.Aves">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="ru.davidlevy.lesson5.classification.Dog" target="ru.davidlevy.lesson5.classification.Canis">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="ru.davidlevy.lesson5.classification.Aves" target="ru.davidlevy.lesson5.classification.Ornithurae">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="ru.davidlevy.lesson5.classification.Snake" target="ru.davidlevy.lesson5.classification.Serpentes">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="310.0" y="215.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
